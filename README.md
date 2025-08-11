@@ -3,7 +3,7 @@ my painting this favorite
 # ==========================
 # 1. Hello World with a twist
 # ==========================
-from datetime import datetime
+from datetime import datetim
 
 name = input("What's your name? ")
 time_now = datetime.now().strftime("%H:%M:%S")
