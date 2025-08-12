@@ -13,7 +13,7 @@ print(f"Hello, {name}! The current time is {time_now}. Have a great day!")
 # 2. Simple Calculator
 # ==========================
 def add(a, b): return a + b
-def subtract(a, b): return a - 
+def subtract(a, b): return a -b 
 def multiply(a, b): return a * b
 def divide(a, b): return a / b if b != 0 else "Error: Division by zero!"
 
