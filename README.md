@@ -1,7 +1,7 @@
 # my-painting
 my painting this favorite
 # ==========================
-# 1. Hello World with a tist
+# 1. Hello World with a twist
 # ==========================
 from datetime import datetime
 
